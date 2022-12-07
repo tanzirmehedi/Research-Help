@@ -38,7 +38,7 @@ Reference
 
 Office 365 তে দারুন একটি সুবিধা আছে। সেটি হলো অনলাইন থেকে কোন একটি লেখা কে নিয়ে, সেটিকে অটো পাওয়ারপয়েন্ট স্লাইড এ রূপান্তরিত করা যায়। Canva premium খুবই কম দামে পাওয়া যায় এবং দারুণ প্রেজেন্টেশন ভিডিও এর টেমপ্লেট পাওয়া যাবে। যারা বিভিন্ন কনফারেন্সে poster present করবেন; এখান থেকে দারুন দারুন ইনফোগ্রাফিক পাবেন।
 
-## 5. Conceptual and Theoretical Framework (Diagram.net*, creatly*)
+## 5. Conceptual and Theoretical Framework (Diagram.net*, creatly*, Photoshop, Pycharm)
 
 এই অংশগুলোতে অনেক সময় ডায়াগ্রাম বা চিত্র আঁকতে হয়। মাইক্রোসফ্ট ওয়ার্ডে যদিও চিত্র অঙ্কন করা যায়, তবে সেটি সুন্দর হয়না । আপনারা চাইলে Diagram.net, creatly এই ওয়েবসাইট গুলো থেকে মুহূর্তেই কাঙ্খিত ডায়াগ্রাম তৈরি করে নিতে পারবেন।
 
@@ -66,12 +66,17 @@ DupliChecker, Paperrater, Plagiarisma, Search Engine Reports, PlagTracker, Plagi
 
 রেফারেন্সিং সফটওয়্যার ব্যবহার করে মুহূর্তের মধ্যেই রেফারেন্সিং করে ফেলা যায়। Zotero সফটওয়ারটি শেখা আমার জীবনের অন্যতম উল্লেখযোগ্য ঘটনা বলে আমি মনে করি। গবেষণা প্রতিষ্ঠানে চাকরি পেতে হলে এই সফটওয়্যার গুলো শেখা অত্যন্ত দরকার। Zotero এবং Mendeley আমি ব্যবহার করি। রেফারেন্সিং ছাড়াও বাড়তি কিছু কাজ করা যায়। আমি আমাদের প্ল্যাটফর্ম থেকে নেওয়া ফ্রী ক্লাসে দেখিয়েছিলাম।
 
-## 10. Paper Analyzer (Researchrabbit, Connectedpaper)
+## 10. Paper Analyzer (Researchrabbit, Connectedpaper, Scilit)
+
 যেকোনো রিসার্চ আর্টিকেল এখানে আপলোড দিলে অটোমেটিক সিমিলার লিটারেচার সাজেস্ট করবে এবং সেগুলোর real-time এনালাইসিস পাওয়া যাবে।
 এছাড়াও প্রত্যেকটা গবেষণায় ব্যবহৃত রেফারেন্সগুলোর সাইটেশন এনালাইসিস etc. ফিচার রয়েছে। 
 
-## 11. Some Usefull Tools and Website
+## 11. Research Paper Download (Wosonhj, Sci Hub, Zlibrary, Libgen)
 
-Researchgate, Google Schoolar, Scihub, Scribbr, Researchrabbit, Connectedpapers, Scilit ইত্যাদি নামগুলা লিখে গুগল সার্চ করলেই বুঝতে পারবেন যে, এগুলো কি কাজ।
+যেকোনো পেপার ডাউনলোড করতে পারবেন এই টুলগুলো ব্যবহার করে।
+
+## 11. Some Usefull Website
+
+Researchgate, Google Schoolar, Orcid, Github, Publons, Scribbr, Clarivate, Scimago ইত্যাদি নামগুলা লিখে গুগল সার্চ করলেই বুঝতে পারবেন যে, এগুলো কি কাজ।
 
 টুলসগুলো শেখা খুব সহজ। ওয়েবসাইটে গেলেই বুঝে যাবেন। সফটওয়্যারগুলো অবশ্য অনলাইন/অফলাইন, ইউটিউব, গুগোল অথবা কোর্স করে শিখে নিতে পারেন।
