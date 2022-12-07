@@ -54,9 +54,9 @@ Qualitative research software (Atlas.ti,NVivo*,Quirkos,MAXQDA...Excel*)
 
 এতগুলা সফটওয়্যার দেখে মোটেও ঘাবড়ে যাবেন না । গুণগত গবেষণা করার ক্ষেত্রে সাধারণতঃ সফটওয়্যার না হলেও চলে বা এক্সেল ব্যবহার করেই থিমেটিক এনালাইসিস করে ফেলা যায়। আমি এই দুটি সফট্ওয়ারে Quirkos, MAXQDA এর কথা বলবো। আপনারা চাইলে শিখে নিতে পারেন।
 
-## 7. Questionnaire Survey (Kobo toolbox*, Google form*)
+## 7. Questionnaire Survey (Mentimeter, Kobo toolbox*, Google form*)
 
-Kobo toolbox খুবই স্মার্ট একটি টুলস। রিসার্চ অ্যাসিস্ট্যান্ট হিসেবে কাজ পেতে হলে এই টুলস এর কাজ জানা আবশ্যক।
+Mentimeter, Kobo toolbox খুবই স্মার্ট একটি টুলস। রিসার্চ অ্যাসিস্ট্যান্ট হিসেবে কাজ পেতে হলে এই টুলস এর কাজ জানা আবশ্যক।
 
 ## 8. Plagiarism Checker (Turnitin*, Viper, I-thenticate, Checker X)
 
