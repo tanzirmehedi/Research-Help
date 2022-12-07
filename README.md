@@ -75,7 +75,7 @@ DupliChecker, Paperrater, Plagiarisma, Search Engine Reports, PlagTracker, Plagi
 
 যেকোনো পেপার ডাউনলোড করতে পারবেন এই টুলগুলো ব্যবহার করে।
 
-## 11. Some Usefull Website
+## 12. Some Usefull Website
 
 Researchgate, Google Schoolar, Orcid, Github, Publons, Scribbr, Clarivate, Scimago ইত্যাদি নামগুলা লিখে গুগল সার্চ করলেই বুঝতে পারবেন যে, এগুলো কি কাজ।
 
